@@ -1,4 +1,5 @@
 # film2png
+depend on `mplayer`
 ```bash
 
 #!/bin/sh
